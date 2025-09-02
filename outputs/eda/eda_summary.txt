@@ -1,0 +1,27 @@
+{
+  "rows": 1200000,
+  "cols": 21,
+  "columns": [
+    "id",
+    "Age",
+    "Gender",
+    "Annual Income",
+    "Marital Status",
+    "Number of Dependents",
+    "Education Level",
+    "Occupation",
+    "Health Score",
+    "Location",
+    "Policy Type",
+    "Previous Claims",
+    "Vehicle Age",
+    "Credit Score",
+    "Insurance Duration",
+    "Policy Start Date",
+    "Customer Feedback",
+    "Smoking Status",
+    "Exercise Frequency",
+    "Property Type",
+    "Premium Amount"
+  ]
+}
